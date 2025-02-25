@@ -21,3 +21,6 @@ fmt.pc
 .env
 qodana-results
 qodana.log
+qodana
+cmake-build-debug
+.idea
