@@ -1,0 +1,302 @@
+[
+{
+  "directory": ".",
+  "command": "c++ -Iinclude -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/fmt.dir/src/format.cc.o -c src/format.cc",
+  "file": "src/format.cc",
+  "output": "build/CMakeFiles/fmt.dir/src/format.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -Iinclude -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/fmt.dir/src/os.cc.o -c src/os.cc",
+  "file": "src/os.cc",
+  "output": "build/CMakeFiles/fmt.dir/src/os.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/test-main.dir/test-main.cc.o -c test/test-main.cc",
+  "file": "test/test-main.cc",
+  "output": "build/test/CMakeFiles/test-main.dir/test-main.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/test-main.dir/gtest-extra.cc.o -c test/gtest-extra.cc",
+  "file": "test/gtest-extra.cc",
+  "output": "build/test/CMakeFiles/test-main.dir/gtest-extra.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/test-main.dir/util.cc.o -c test/util.cc",
+  "file": "test/util.cc",
+  "output": "build/test/CMakeFiles/test-main.dir/util.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/args-test.dir/args-test.cc.o -c test/args-test.cc",
+  "file": "test/args-test.cc",
+  "output": "build/test/CMakeFiles/args-test.dir/args-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/base-test.dir/base-test.cc.o -c test/base-test.cc",
+  "file": "test/base-test.cc",
+  "output": "build/test/CMakeFiles/base-test.dir/base-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/assert-test.dir/assert-test.cc.o -c test/assert-test.cc",
+  "file": "test/assert-test.cc",
+  "output": "build/test/CMakeFiles/assert-test.dir/assert-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/chrono-test.dir/chrono-test.cc.o -c test/chrono-test.cc",
+  "file": "test/chrono-test.cc",
+  "output": "build/test/CMakeFiles/chrono-test.dir/chrono-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/color-test.dir/color-test.cc.o -c test/color-test.cc",
+  "file": "test/color-test.cc",
+  "output": "build/test/CMakeFiles/color-test.dir/color-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/gtest-extra-test.dir/gtest-extra-test.cc.o -c test/gtest-extra-test.cc",
+  "file": "test/gtest-extra-test.cc",
+  "output": "build/test/CMakeFiles/gtest-extra-test.dir/gtest-extra-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/format-test.dir/format-test.cc.o -c test/format-test.cc",
+  "file": "test/format-test.cc",
+  "output": "build/test/CMakeFiles/format-test.dir/format-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/format-impl-test.dir/format-impl-test.cc.o -c test/format-impl-test.cc",
+  "file": "test/format-impl-test.cc",
+  "output": "build/test/CMakeFiles/format-impl-test.dir/format-impl-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/format-impl-test.dir/header-only-test.cc.o -c test/header-only-test.cc",
+  "file": "test/header-only-test.cc",
+  "output": "build/test/CMakeFiles/format-impl-test.dir/header-only-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/format-impl-test.dir/test-main.cc.o -c test/test-main.cc",
+  "file": "test/test-main.cc",
+  "output": "build/test/CMakeFiles/format-impl-test.dir/test-main.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/format-impl-test.dir/gtest-extra.cc.o -c test/gtest-extra.cc",
+  "file": "test/gtest-extra.cc",
+  "output": "build/test/CMakeFiles/format-impl-test.dir/gtest-extra.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/format-impl-test.dir/util.cc.o -c test/util.cc",
+  "file": "test/util.cc",
+  "output": "build/test/CMakeFiles/format-impl-test.dir/util.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/format-impl-test.dir/__/src/os.cc.o -c src/os.cc",
+  "file": "src/os.cc",
+  "output": "build/test/CMakeFiles/format-impl-test.dir/__/src/os.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/ostream-test.dir/ostream-test.cc.o -c test/ostream-test.cc",
+  "file": "test/ostream-test.cc",
+  "output": "build/test/CMakeFiles/ostream-test.dir/ostream-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/compile-test.dir/compile-test.cc.o -c test/compile-test.cc",
+  "file": "test/compile-test.cc",
+  "output": "build/test/CMakeFiles/compile-test.dir/compile-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/compile-fp-test.dir/compile-fp-test.cc.o -c test/compile-fp-test.cc",
+  "file": "test/compile-fp-test.cc",
+  "output": "build/test/CMakeFiles/compile-fp-test.dir/compile-fp-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/printf-test.dir/printf-test.cc.o -c test/printf-test.cc",
+  "file": "test/printf-test.cc",
+  "output": "build/test/CMakeFiles/printf-test.dir/printf-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/ranges-test.dir/ranges-test.cc.o -c test/ranges-test.cc",
+  "file": "test/ranges-test.cc",
+  "output": "build/test/CMakeFiles/ranges-test.dir/ranges-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/ranges-test.dir/ranges-odr-test.cc.o -c test/ranges-odr-test.cc",
+  "file": "test/ranges-odr-test.cc",
+  "output": "build/test/CMakeFiles/ranges-test.dir/ranges-odr-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/no-builtin-types-test.dir/no-builtin-types-test.cc.o -c test/no-builtin-types-test.cc",
+  "file": "test/no-builtin-types-test.cc",
+  "output": "build/test/CMakeFiles/no-builtin-types-test.dir/no-builtin-types-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/no-builtin-types-test.dir/test-main.cc.o -c test/test-main.cc",
+  "file": "test/test-main.cc",
+  "output": "build/test/CMakeFiles/no-builtin-types-test.dir/test-main.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/no-builtin-types-test.dir/gtest-extra.cc.o -c test/gtest-extra.cc",
+  "file": "test/gtest-extra.cc",
+  "output": "build/test/CMakeFiles/no-builtin-types-test.dir/gtest-extra.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/no-builtin-types-test.dir/util.cc.o -c test/util.cc",
+  "file": "test/util.cc",
+  "output": "build/test/CMakeFiles/no-builtin-types-test.dir/util.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/no-builtin-types-test.dir/__/src/os.cc.o -c src/os.cc",
+  "file": "src/os.cc",
+  "output": "build/test/CMakeFiles/no-builtin-types-test.dir/__/src/os.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HAVE_STRPTIME -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/scan-test.dir/scan-test.cc.o -c test/scan-test.cc",
+  "file": "test/scan-test.cc",
+  "output": "build/test/CMakeFiles/scan-test.dir/scan-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HAVE_STRPTIME -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/scan-test.dir/test-main.cc.o -c test/test-main.cc",
+  "file": "test/test-main.cc",
+  "output": "build/test/CMakeFiles/scan-test.dir/test-main.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HAVE_STRPTIME -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/scan-test.dir/gtest-extra.cc.o -c test/gtest-extra.cc",
+  "file": "test/gtest-extra.cc",
+  "output": "build/test/CMakeFiles/scan-test.dir/gtest-extra.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HAVE_STRPTIME -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/scan-test.dir/util.cc.o -c test/util.cc",
+  "file": "test/util.cc",
+  "output": "build/test/CMakeFiles/scan-test.dir/util.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HAVE_STRPTIME -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/scan-test.dir/__/src/os.cc.o -c src/os.cc",
+  "file": "src/os.cc",
+  "output": "build/test/CMakeFiles/scan-test.dir/__/src/os.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/std-test.dir/std-test.cc.o -c test/std-test.cc",
+  "file": "test/std-test.cc",
+  "output": "build/test/CMakeFiles/std-test.dir/std-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/unicode-test.dir/unicode-test.cc.o -c test/unicode-test.cc",
+  "file": "test/unicode-test.cc",
+  "output": "build/test/CMakeFiles/unicode-test.dir/unicode-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/unicode-test.dir/test-main.cc.o -c test/test-main.cc",
+  "file": "test/test-main.cc",
+  "output": "build/test/CMakeFiles/unicode-test.dir/test-main.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/unicode-test.dir/gtest-extra.cc.o -c test/gtest-extra.cc",
+  "file": "test/gtest-extra.cc",
+  "output": "build/test/CMakeFiles/unicode-test.dir/gtest-extra.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/unicode-test.dir/util.cc.o -c test/util.cc",
+  "file": "test/util.cc",
+  "output": "build/test/CMakeFiles/unicode-test.dir/util.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_HEADER_ONLY=1 -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/unicode-test.dir/__/src/os.cc.o -c src/os.cc",
+  "file": "src/os.cc",
+  "output": "build/test/CMakeFiles/unicode-test.dir/__/src/os.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/xchar-test.dir/xchar-test.cc.o -c test/xchar-test.cc",
+  "file": "test/xchar-test.cc",
+  "output": "build/test/CMakeFiles/xchar-test.dir/xchar-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DFMT_ENFORCE_COMPILE_STRING -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/enforce-checks-test.dir/enforce-checks-test.cc.o -c test/enforce-checks-test.cc",
+  "file": "test/enforce-checks-test.cc",
+  "output": "build/test/CMakeFiles/enforce-checks-test.dir/enforce-checks-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -Iinclude -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/perf-sanity.dir/perf-sanity.cc.o -c test/perf-sanity.cc",
+  "file": "test/perf-sanity.cc",
+  "output": "build/test/CMakeFiles/perf-sanity.dir/perf-sanity.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/posix-mock-test.dir/posix-mock-test.cc.o -c test/posix-mock-test.cc",
+  "file": "test/posix-mock-test.cc",
+  "output": "build/test/CMakeFiles/posix-mock-test.dir/posix-mock-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/posix-mock-test.dir/__/src/format.cc.o -c src/format.cc",
+  "file": "src/format.cc",
+  "output": "build/test/CMakeFiles/posix-mock-test.dir/__/src/format.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/posix-mock-test.dir/test-main.cc.o -c test/test-main.cc",
+  "file": "test/test-main.cc",
+  "output": "build/test/CMakeFiles/posix-mock-test.dir/test-main.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/posix-mock-test.dir/gtest-extra.cc.o -c test/gtest-extra.cc",
+  "file": "test/gtest-extra.cc",
+  "output": "build/test/CMakeFiles/posix-mock-test.dir/gtest-extra.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/posix-mock-test.dir/util.cc.o -c test/util.cc",
+  "file": "test/util.cc",
+  "output": "build/test/CMakeFiles/posix-mock-test.dir/util.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -Iinclude -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/CMakeFiles/os-test.dir/os-test.cc.o -c test/os-test.cc",
+  "file": "test/os-test.cc",
+  "output": "build/test/CMakeFiles/os-test.dir/os-test.cc.o"
+},
+{
+  "directory": ".",
+  "command": "c++ -DGTEST_HAS_STD_WSTRING=1 -D_SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING=1 -isystem test/gtest/. -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -o test/gtest/CMakeFiles/gtest.dir/gmock-gtest-all.cc.o -c test/gtest/gmock-gtest-all.cc",
+  "file": "test/gtest/gmock-gtest-all.cc",
+  "output": "build/test/gtest/CMakeFiles/gtest.dir/gmock-gtest-all.cc.o"
+}
+]
